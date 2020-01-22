@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-keebler",
+  "version": "1.0.0",
+  "description": "The one true eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathankeebler/eslint-config-keebler.git"
+  },
+  "author": "Jonathan Keebler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathankeebler/eslint-config-keebler/issues"
+  },
+  "homepage": "https://github.com/jonathankeebler/eslint-config-keebler#readme",
+  "dependencies": {
+    "@typescript-eslint/parser": "^2.17.0",
+    "eslint-config-airbnb-base": "^14.0.0"
+  }
+}
